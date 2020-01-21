@@ -98,8 +98,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://davideckleyprojects.now.sh',
-        sitemap: 'https://davideckleyprojects.now.sh/sitemap.xml',
+        host: 'https://davideckleyprojects.com',
+        sitemap: 'https://davideckleyprojects.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }]
       }
     }
