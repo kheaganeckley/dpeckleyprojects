@@ -14,7 +14,7 @@ module.exports = {
     author: "kheagan",
     About:
       "I specialise in Home Improvement, Electrical, (HVAC) Air Conditioning and Ventilation, (LPG) Liquid Petroleum Gas installations,and TIG welding. So give me a call on 083 264 7064 so that I can help you out. Please explore the website further to see some of my work.",
-    siteUrl: "https://dpeckleyprojects.now.sh",
+    siteUrl: "https://dpeckleyprojects.com",
     twitterUsername: "kheaganD",
     image: "./Renovations-min.jpg",
     social: [
@@ -52,12 +52,6 @@ module.exports = {
     ],
   },
   plugins: [
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "UA-155301000-1",
-      },
-    },
     `gatsby-plugin-theme-ui`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
