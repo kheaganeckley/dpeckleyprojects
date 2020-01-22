@@ -89,8 +89,8 @@ module.exports = {
         name: `Daivd Eckley Projects`,
         short_name: `D.E.P.`,
         start_url: `/`,
-        background_color: `black`,
-        theme_color: `black`,
+        background_color: `#8a0000`,
+        theme_color: `#8a0000`,
         display: `minimal-ui`,
         icon: `src/images/DPECKLEYPROJECTS500.png`, // This path is relative to the root of the site.
       },
