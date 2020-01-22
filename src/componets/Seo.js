@@ -40,6 +40,7 @@ export default ({ description }) => {
     <Helmet>
       <html lang="en" amp />
       <title>{`${title} | ${description}`}</title>
+      <meta name="google-site-verification" content="m8xb3mVBNWzFsutepq1tswrV3hYpGaepCgo-mzpgR3U" />
       <meta name="description" content={SEOdescription} />
       <meta name="keywords" content={SEOkeywords} />
       <meta name="author" content={author} />
