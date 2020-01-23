@@ -5,3 +5,19 @@ letter-spacing: 1.5px;
 font-family: Russo One;
 font-weight: lighter;
 }
+
+
+::-webkit-scrollbar {
+    width: 25px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #9e0000;
+    border-radius: 5px;
+  }
