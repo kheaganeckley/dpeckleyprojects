@@ -9,7 +9,7 @@ module.exports = {
     SEOdescription:
       "I specialise in Home Improvement, Electrical, (HVAC) Air Conditioning and Ventilation, (LPG) Liquid Petroleum Gas installations, and TIG welding.",
     SEOkeywords: "Eckley Air Conditioning ",
-    themeColor: "black",
+    themeColor: "#8a0000",
     emailForFormSpree: "dpeckleyprojects@gmail.com",
     author: "kheagan",
     About:
