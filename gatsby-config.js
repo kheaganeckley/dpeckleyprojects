@@ -83,6 +83,7 @@ module.exports = {
         accessToken: "HJX_oLAcVQso-nG2geJOWdwpRdZ3UDN2NcaZ9eA1Pi4",
       },
     },
+    
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
